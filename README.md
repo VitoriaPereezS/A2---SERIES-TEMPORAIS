@@ -1,1 +1,1 @@
-# A2---SERIES-TEMPORAIS
+# A2-Econometria-Avancada
